@@ -1,0 +1,4 @@
+style sheet for input text :
+intput[type=text]
+input[type=password]
+intput[type=number]

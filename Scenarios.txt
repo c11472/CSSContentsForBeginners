@@ -1,0 +1,32 @@
+
+Scenario - 1
+
+Create an html doc for 
+
+displaying Hi we are in css session
+
+This must be in a paragraph ..
+
+we need to create the css and apply color .
+
+Test the html content by kkeping the file in different location.
+
+Scenario-2:
+Multiple paragraph with id 
+Created the css for the same using
+#id{
+}
+
+Scenario - 3:
+
+Create a html document with multiple div tags.
+Create a css to change the style the div contents available in html.
+
+Scenario - 4:
+Create a html document with multiple div tags.
+Create a css to change the style the div contents available in html by using different padding properties .
+
+
+buttonsandcss
+
+

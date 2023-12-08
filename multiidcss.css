@@ -1,0 +1,14 @@
+
+#para2{
+color: blue;
+font-size: 30px;
+}
+
+#para3{
+color: green;
+font-size: 40px;
+}
+
+p[name="para1"] {
+  background: red;
+}
